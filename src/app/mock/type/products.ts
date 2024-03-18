@@ -1,4 +1,5 @@
 export interface IProducts {
+  ssn: string
   isCustom: boolean
   imgSrc: string
   pcName: string
