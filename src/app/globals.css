@@ -31,3 +31,7 @@ body {
     text-wrap: balance;
   }
 }
+
+.btn[disabled] {
+  @apply opacity-50 cursor-not-allowed;
+}
