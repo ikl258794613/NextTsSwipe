@@ -7,7 +7,7 @@ interface props {
 export const Button = ({
   handleFunction,
   rotateClass = 'rotate-[90deg]',
-  disabled,
+  disabled = false,
 }: props) => {
   const handleButton = () => {
     handleFunction()
