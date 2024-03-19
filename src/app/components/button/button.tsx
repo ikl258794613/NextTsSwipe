@@ -1,8 +1,4 @@
-interface props {
-  handleFunction: () => void
-  rotateClass?: string
-  disabled?: boolean
-}
+import { props } from '@/app/components/button/buttonType'
 
 export const Button = ({
   handleFunction,
