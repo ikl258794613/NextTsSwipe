@@ -19,7 +19,7 @@ export const Card = ({
 }: props) => {
   return (
     <>
-      <div className='px-4 py-40 lg:p-0 lg:pb-4'>
+      <div className='px-4 py-4 lg:p-0 lg:pb-4'>
         <div className='border border-inherit rounded-lg shadow-2xl '>
           <div className='m-4 flex flex-col '>
             <div className='border-2 rounded-full w-20 text-xs text-center font-bold text-slate-400'>

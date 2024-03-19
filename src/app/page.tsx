@@ -36,7 +36,7 @@ const Home = () => {
 
   return (
     <>
-      <div className='bg-white '>
+      <div className='bg-white'>
         <div className='lg:flex flex-col justify-center items-center hidden'>
           <div className='text-3xl p-2'>Best Seller Gaming PC</div>
           <div className='text-2xl '>Prebuilt & Custom</div>
